@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sot26
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning backend development 
+👋 Hi, I’m @sot26
+
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking for internship role
 - 📫 How to reach me ... https://www.linkedin.com/in/oluwatobi-omotosho-854804145/
 
