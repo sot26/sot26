@@ -1,4 +1,4 @@
-👋 Hi, I’m @sot26
+👋 Hi, I’m Omotosho oluwatobi Samuel 
 
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning frontend development 
