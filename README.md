@@ -1,7 +1,7 @@
 👋 Hi, I’m Omotosho oluwatobi Samuel 
 
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently a frontend development 
+- 🌱 I’m currently a frontend developer 
 - 💞️ I’m looking for internship role
 - 📫 How to reach me ... https://www.linkedin.com/in/oluwatobi-omotosho-854804145/
 
