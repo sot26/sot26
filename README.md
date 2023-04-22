@@ -7,7 +7,7 @@ Frontend Developer
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My portfolio](http://samuel-oluwatobi.netlify.app)
 * ✉️  You can contact me at [Omotoshotobi26@gmail.com](mailto:Omotoshotobi26@gmail.com)
-* 🤝  I'm open to collaborating on Frontend development jobs
+* 🤝  I'm open to collaborating on Frontend development jobs and projects 
 
 ### Skills
 
